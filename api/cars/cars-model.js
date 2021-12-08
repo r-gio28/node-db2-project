@@ -1,5 +1,6 @@
 const getAll = () => {
-  // DO YOUR MAGIC
+  // get all dem cars
+
 }
 
 const getById = () => {
